@@ -1,1 +1,1 @@
-# cozy-grove-db
+# cg-db
